@@ -2,7 +2,8 @@
 
 Backend-разработчик (C++, Go, Python)
 
-Санкт-Петербург | [roman16050811@mail.ru](mailto:roman16050811@mail.ru) | tg: m2dyt
+Санкт-Петербург 
+[roman16050811@mail.ru](mailto:roman16050811@mail.ru) | tg: m2dyt
 
 ---
 
