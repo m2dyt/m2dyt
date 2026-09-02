@@ -2,7 +2,7 @@
 
 ### Backend-разработчик Golang / C++
 
-Санкт-Петербург | [roman16050811@mail.ru](mailto:roman16050811@mail.ru) | +79098815101 | tg: @m2dyt | github.com/m2dyt
+Санкт-Петербург | [roman16050811@mail.ru](mailto:roman16050811@mail.ru) | tg: @m2dyt | github.com/m2dyt
 
 ---
 
